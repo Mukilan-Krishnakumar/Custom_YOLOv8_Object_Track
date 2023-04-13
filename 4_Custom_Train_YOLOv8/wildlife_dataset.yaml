@@ -1,9 +1,0 @@
-# class names
-names : ['indian_tiger', 'indian_elephant', 'indian_rhinoceros', 'indian_bison', 'indian_leopard', 'asiatic_lion']
-
-#number of classes
-nc: 6
-
-# location of train and test data
-train: "../data/images/train"
-val: "../data/images/val"
