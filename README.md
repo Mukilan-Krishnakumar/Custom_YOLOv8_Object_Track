@@ -81,6 +81,6 @@ Also, a huge thanks to the following people and resources:
 1. Ivan Goncharov - [ModifiedOpenLabeling](https://github.com/ivangrov/ModifiedOpenLabelling)
 2. Piotr Skalski and RoboFlow - [Supervision](https://github.com/roboflow/supervision)
 
-**If you are reading this far, consider starring the project to show some love. Reach out if you have any questions.**
+**If you have read this far, consider starring the project to show some love. Reach out if you have any questions.**
 
 My email: mukilan.git@gmail.com 
