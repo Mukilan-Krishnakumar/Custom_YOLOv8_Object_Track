@@ -1,0 +1,6 @@
+bengal_tiger
+indian_elephant
+indian_rhinoceros
+indian_bison
+indian_leopard
+asiatic_lion
